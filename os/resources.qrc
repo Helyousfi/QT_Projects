@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>shut.png</file>
+        <file>restart.png</file>
+        <file>shutdown.png</file>
+        <file>linux.png</file>
+        <file>bg.jpg</file>
+    </qresource>
+</RCC>
